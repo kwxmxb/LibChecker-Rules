@@ -1,8 +1,0 @@
-{
-    "label": "Folly",
-    "team": "Facebook",
-    "iconUrl": "",
-    "contributors": ["su1216", "Absinthe", "ArthurCyy", "Anormi"],
-    "description": "An open-source C++ library developed and used at Facebook.",
-    "relativeUrl": "https://github.com/facebook/folly"
-}

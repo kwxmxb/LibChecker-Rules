@@ -1,0 +1,8 @@
+{
+    "label": "React Native Screens",
+    "team": "software-mansion",
+    "iconUrl": "",
+    "contributors": ["crrashh1542", "Anormi"],
+    "description": "React Native Screens is the core library that provides native navigation components to most React Native apps.",
+    "relativeUrl": "https://github.com/software-mansion/react-native-screens"
+}
